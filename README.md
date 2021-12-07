@@ -118,4 +118,7 @@ Execute the program
 
 ~~~
 # OUTPUT
-![Output](Timetable.PNG)
+![Output](Timetable.png)
+
+## Result:-
+Therefore designing a time table using html code is successful.
